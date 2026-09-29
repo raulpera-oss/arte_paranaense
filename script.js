@@ -4,4 +4,11 @@ botoesCurtir.forEach(function(botaoCurtir){
     botaoCurtir.addEventListener("click", curtir);
 function curtir(){
     const contador = botaoCurtir.querySelector("span");
-    if(curtiu === false)
+    if(curtiu === false){
+        contador.textContent++;
+        curtiu = true;
+      } else{
+        contador.textContent--;
+        }
+    }
+});
