@@ -9,6 +9,7 @@ function curtir(){
         curtiu = true;
       } else{
         contador.textContent--;
+        curtiu = false;
         }
     }
 });
