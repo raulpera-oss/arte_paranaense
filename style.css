@@ -1,4 +1,4 @@
-/*
+
 :root{
     --cor-fundo:#00CC1E;
     --cor-texto:#222222;
@@ -10,7 +10,7 @@
     --cor-clara:white;
     --cor-legenda:#555555;
 }
-*/
+
     
 body {
     background-color: var(--cor-fundo);
