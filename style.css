@@ -129,7 +129,7 @@ button:hover {
     flex-wrap: wrap;
     justify-content: center;
 }
-.card-curiosidades {
+.cards-curiosidades {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
