@@ -4,9 +4,9 @@
     --cor-texto:#222222;
     --cor-principal:#6b2d5c;
     --cor-secundaria:#c77dff;
-    --cor-card: red;
+    --cor-card: #6aff97;
     --cor-superficie:white;
-    --cor-rodape: yellow;
+    --cor-rodape: #0c0c0c;
     --cor-clara:white;
     --cor-legenda:#555555;
 }
@@ -65,7 +65,7 @@ main {
 section {
     background-color: var(--cor-superficie);
     margin: 20px 0;
-    padding: 20px;
+    paddinAcessar referẽnciag: 20px;
     border-radius: 12px;
 }
 
