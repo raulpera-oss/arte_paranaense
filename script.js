@@ -13,3 +13,12 @@ function curtir(){
         }
     }
 });
+
+
+
+
+const btnTema = document.querySelector(".btn-tema");
+bntTema.addEventListener("click", mudarTema);
+function mudarTema(){
+    document.body.classList.toggle("tema-escuro");
+}
